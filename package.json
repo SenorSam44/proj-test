@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "proj-test": "node src/proj_test/proj4js_check.js"
+     "proj-test": "node src/proj_test/proj4js.js"
   },
   "author": "",
   "license": "ISC",
